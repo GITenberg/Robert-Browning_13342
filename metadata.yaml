@@ -1,0 +1,34 @@
+_repo: Robert-Browning_13342
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: On the subject of Browning's work innumerable things have been said and
+  remain to be said; of his life, considered as a narrative of facts, there is little
+  or nothing to say. It was a lucid and public and yet quiet life, which culminated
+  in one great dramatic test of character, and then fell back again into this union
+  of quietude and publicity.
+gutenberg_issued: '2004-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Browning, Robert, 1812-1889'
+title: Robert Browning
+url: http://www.gutenberg.org/ebooks/13342
